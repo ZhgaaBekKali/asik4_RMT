@@ -1,0 +1,75 @@
+{
+  "methods": {
+    "B1 inventory retention": {
+      "n": 8,
+      "included": 8,
+      "tp": 7,
+      "fp": 1,
+      "fn": 0,
+      "tn": 0,
+      "agreement_percent": 87.5,
+      "inclusion_precision": 0.875,
+      "inclusion_recall": 1.0
+    },
+    "B2 structural validation": {
+      "n": 8,
+      "included": 8,
+      "tp": 7,
+      "fp": 1,
+      "fn": 0,
+      "tn": 0,
+      "agreement_percent": 87.5,
+      "inclusion_precision": 0.875,
+      "inclusion_recall": 1.0
+    },
+    "P source reviewed screening": {
+      "n": 8,
+      "included": 7,
+      "tp": 7,
+      "fp": 0,
+      "fn": 0,
+      "tn": 1,
+      "agreement_percent": 100.0,
+      "inclusion_precision": 1.0,
+      "inclusion_recall": 1.0
+    }
+  },
+  "sensitivity_retained_candidates": {
+    "B1 inventory retention": {
+      "n": 7,
+      "included": 7,
+      "tp": 7,
+      "fp": 0,
+      "fn": 0,
+      "tn": 0,
+      "agreement_percent": 100.0,
+      "inclusion_precision": 1.0,
+      "inclusion_recall": 1.0
+    },
+    "B2 structural validation": {
+      "n": 7,
+      "included": 7,
+      "tp": 7,
+      "fp": 0,
+      "fn": 0,
+      "tn": 0,
+      "agreement_percent": 100.0,
+      "inclusion_precision": 1.0,
+      "inclusion_recall": 1.0
+    },
+    "P source reviewed screening": {
+      "n": 7,
+      "included": 7,
+      "tp": 7,
+      "fp": 0,
+      "fn": 0,
+      "tn": 0,
+      "agreement_percent": 100.0,
+      "inclusion_precision": 1.0,
+      "inclusion_recall": 1.0
+    }
+  },
+  "candidates_sha256": "6527032bc549cc0b34466287541c44bd981b49cf15560cff8acff0ca0ed4ede6",
+  "evidence_sha256": "2f9ea51f46c5cf0657d1636fcc20b7b99293c1d1fb92cd1ee7698e114c4a7e3c",
+  "interpretation": "Retrospective descriptive ablation. Proposed decisions equal the source-reviewed reference by construction. No held-out labels, independent coder, statistical efficacy or generalisation claim."
+}

@@ -1,0 +1,3 @@
+# Statistical validity note
+
+The observed 7/8 versus 8/8 retention comparison is paired and retrospective. The source-reviewed method is identical to the source-reviewed reference by construction. Therefore a p-value asserting superiority would be misleading; three identical deterministic runs measure reproducibility, not independent experimental replicates. The report states this limitation. A valid inferential comparison requires independently adjudicated labels and enough independent units. Do not report a manufactured p-value or bootstrap confidence interval as evidence of independent model superiority.

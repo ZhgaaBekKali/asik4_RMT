@@ -1,0 +1,7 @@
+primary_task,modality,resource_count
+LLM evaluation,text,2
+Machine translation,text,1
+Named entity recognition,text,1
+Question answering,text,1
+Speech recognition,speech,1
+Text-to-speech,speech,1

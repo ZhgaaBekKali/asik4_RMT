@@ -1,0 +1,41 @@
+{
+  "executed_at_utc": "2026-11-08T14:57:49.572831+00:00",
+  "python": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.41",
+  "runs": 3,
+  "analytical_files_identical": true,
+  "excluded_from_byte_comparison": [
+    "environment.json"
+  ],
+  "run_hashes": [
+    {
+      "analysis_output.json": "7f09ca2d3bd988cfd21094a123748402e8118ab782eac009c7e961d46af55497",
+      "baseline_metrics.csv": "a892c9216c6d1fe7e13eb99972bee3c1a8057963403d8376542ea48c6a0e862a",
+      "baseline_predictions.csv": "cfd3e3454a73103cf9164f406fd85932d08c8ddf331fb3ba8ec7f476da3c46fa",
+      "comparison.json": "98e197b5c3954340bf7e0a389d8442419cfce1fd44005f3c00ac96d80491853b",
+      "dataset_inventory.csv": "0aa226c1d7f01b74754aa841b2faf4bacedbda5f7c5254c8e1be54e48a39d051",
+      "task_modality_summary.csv": "9c47ea1040df35b0e741f80ebf02a4322fb73f689d04c997ceabd8fca30a8d91",
+      "task_summary.csv": "9a0bbec4780c2c5b65b3da3996a6c46221aefe399a58b0b2cfd7e6d37fbc9db7"
+    },
+    {
+      "analysis_output.json": "7f09ca2d3bd988cfd21094a123748402e8118ab782eac009c7e961d46af55497",
+      "baseline_metrics.csv": "a892c9216c6d1fe7e13eb99972bee3c1a8057963403d8376542ea48c6a0e862a",
+      "baseline_predictions.csv": "cfd3e3454a73103cf9164f406fd85932d08c8ddf331fb3ba8ec7f476da3c46fa",
+      "comparison.json": "98e197b5c3954340bf7e0a389d8442419cfce1fd44005f3c00ac96d80491853b",
+      "dataset_inventory.csv": "0aa226c1d7f01b74754aa841b2faf4bacedbda5f7c5254c8e1be54e48a39d051",
+      "task_modality_summary.csv": "9c47ea1040df35b0e741f80ebf02a4322fb73f689d04c997ceabd8fca30a8d91",
+      "task_summary.csv": "9a0bbec4780c2c5b65b3da3996a6c46221aefe399a58b0b2cfd7e6d37fbc9db7"
+    },
+    {
+      "analysis_output.json": "7f09ca2d3bd988cfd21094a123748402e8118ab782eac009c7e961d46af55497",
+      "baseline_metrics.csv": "a892c9216c6d1fe7e13eb99972bee3c1a8057963403d8376542ea48c6a0e862a",
+      "baseline_predictions.csv": "cfd3e3454a73103cf9164f406fd85932d08c8ddf331fb3ba8ec7f476da3c46fa",
+      "comparison.json": "98e197b5c3954340bf7e0a389d8442419cfce1fd44005f3c00ac96d80491853b",
+      "dataset_inventory.csv": "0aa226c1d7f01b74754aa841b2faf4bacedbda5f7c5254c8e1be54e48a39d051",
+      "task_modality_summary.csv": "9c47ea1040df35b0e741f80ebf02a4322fb73f689d04c997ceabd8fca30a8d91",
+      "task_summary.csv": "9a0bbec4780c2c5b65b3da3996a6c46221aefe399a58b0b2cfd7e6d37fbc9db7"
+    }
+  ],
+  "test_exit_code": 0,
+  "verification_type": "Automated execution by AI assistant on the preparation machine; not independent human reproduction"
+}

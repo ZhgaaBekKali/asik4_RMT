@@ -1,0 +1,34 @@
+test_bad_date (test_analyze_datasets.PipelineTests.test_bad_date) ... ok
+test_bad_license (test_analyze_datasets.PipelineTests.test_bad_license) ... ok
+test_bad_precision (test_analyze_datasets.PipelineTests.test_bad_precision) ... ok
+test_bad_size (test_analyze_datasets.PipelineTests.test_bad_size) ... ok
+test_bad_subset (test_analyze_datasets.PipelineTests.test_bad_subset) ... ok
+test_bad_task (test_analyze_datasets.PipelineTests.test_bad_task) ... ok
+test_bad_year (test_analyze_datasets.PipelineTests.test_bad_year) ... ok
+test_blank_field (test_analyze_datasets.PipelineTests.test_blank_field) ... ok
+test_cli_different_working_directory (test_analyze_datasets.PipelineTests.test_cli_different_working_directory) ... ok
+test_cli_invalid_input_no_outputs (test_analyze_datasets.PipelineTests.test_cli_invalid_input_no_outputs) ... ok
+test_duplicate_id (test_analyze_datasets.PipelineTests.test_duplicate_id) ... ok
+test_duplicate_name_normalized (test_analyze_datasets.PipelineTests.test_duplicate_name_normalized) ... ok
+test_empty_input (test_analyze_datasets.PipelineTests.test_empty_input) ... ok
+test_future_year (test_analyze_datasets.PipelineTests.test_future_year) ... ok
+test_infinite_size (test_analyze_datasets.PipelineTests.test_infinite_size) ... ok
+test_missing_field (test_analyze_datasets.PipelineTests.test_missing_field) ... ok
+test_nan_size (test_analyze_datasets.PipelineTests.test_nan_size) ... ok
+test_negative_size (test_analyze_datasets.PipelineTests.test_negative_size) ... ok
+test_outputs_and_reproducibility (test_analyze_datasets.PipelineTests.test_outputs_and_reproducibility) ... ok
+test_wrong_url (test_analyze_datasets.PipelineTests.test_wrong_url) ... ok
+test_zero_size (test_analyze_datasets.PipelineTests.test_zero_size) ... ok
+test_blank_url_rejected (test_compare_methods.ComparisonTests.test_blank_url_rejected) ... ok
+test_duplicate_case_and_space_rejected (test_compare_methods.ComparisonTests.test_duplicate_case_and_space_rejected) ... ok
+test_invalid_year_rejected (test_compare_methods.ComparisonTests.test_invalid_year_rejected) ... ok
+test_metric_denominators (test_compare_methods.ComparisonTests.test_metric_denominators) ... ok
+test_mismatched_identity_rejected (test_compare_methods.ComparisonTests.test_mismatched_identity_rejected) ... ok
+test_no_positive_predictions (test_compare_methods.ComparisonTests.test_no_positive_predictions) ... ok
+test_real_comparison_and_determinism (test_compare_methods.ComparisonTests.test_real_comparison_and_determinism) ... ok
+test_structural_baseline_keeps_real_study (test_compare_methods.ComparisonTests.test_structural_baseline_keeps_real_study) ... ok
+
+----------------------------------------------------------------------
+Ran 29 tests in 1.303s
+
+OK

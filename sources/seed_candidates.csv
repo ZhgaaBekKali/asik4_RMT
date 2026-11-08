@@ -1,0 +1,9 @@
+candidate_id,candidate,year,primary_task,source_url
+KSC,Kazakh Speech Corpus (KSC),2021,Speech recognition,https://aclanthology.org/2021.eacl-main.58/
+KazNERD,KazNERD,2022,Named entity recognition,https://aclanthology.org/2022.lrec-1.44/
+KazakhTTS2,KazakhTTS2,2022,Text-to-speech,https://aclanthology.org/2022.lrec-1.578/
+KazParC,KazParC,2024,Machine translation,https://aclanthology.org/2024.lrec-main.842/
+KazQAD,KazQAD,2024,Question answering,https://aclanthology.org/2024.lrec-main.843/
+Study,LLM Evaluation in Kazakh,2024,LLM evaluation,https://aclanthology.org/2024.sigturk-1.8/
+KazMMLU,KazMMLU,2025,LLM evaluation,https://aclanthology.org/2025.acl-long.701/
+KazBench-KK,KazBench-KK,2025,LLM evaluation,https://aclanthology.org/2025.fieldmatters-1.4/

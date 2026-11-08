@@ -1,0 +1,20 @@
+{
+  "record_count": 7,
+  "task_counts": {
+    "LLM evaluation": 2,
+    "Machine translation": 1,
+    "Named entity recognition": 1,
+    "Question answering": 1,
+    "Speech recognition": 1,
+    "Text-to-speech": 1
+  },
+  "license_status_counts": {
+    "CC BY 4.0": 2,
+    "CC BY-SA version unspecified": 1,
+    "unknown": 4
+  },
+  "unknown_license_count": 4,
+  "scale_totals_computed": false,
+  "source_sha256": "c86ede3b83bcfa1dc911a5202b5698ee0857a280081b9a166da2793c4c22a692",
+  "warning": "Seven resource metadata records, not corpus samples or an exhaustive census. Study-level candidates are excluded. Publication-reported sizes are not independently recounted. Unknown licence is not proof of no licence. No cross-unit totals or linguistic-quality scores are computed."
+}

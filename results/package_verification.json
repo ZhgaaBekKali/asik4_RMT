@@ -1,0 +1,16 @@
+{
+  "original_analytical_exports_match": {
+    "dataset_inventory.csv": true,
+    "task_summary.csv": true,
+    "task_modality_summary.csv": true,
+    "analysis_output.json": true
+  },
+  "historical_source_bytes_preserved": true,
+  "archive_crc_check": "passed",
+  "manifest_files_verified": 33,
+  "fresh_extraction_run_exit_code": 0,
+  "fresh_extraction_hashes_match": true,
+  "fresh_extraction_tests": "29 passed",
+  "layout_review": "Microsoft Word exports; all 11 report pages, 2 protocol pages and 1 verification page visually inspected",
+  "independence": "Fresh-directory check performed by the same AI assistant on the same machine; not independent review"
+}

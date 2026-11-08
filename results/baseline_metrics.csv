@@ -1,0 +1,4 @@
+method,n,included,tp,fp,fn,tn,agreement_percent,inclusion_precision,inclusion_recall
+B1 inventory retention,8,8,7,1,0,0,87.5,0.875,1.0
+B2 structural validation,8,8,7,1,0,0,87.5,0.875,1.0
+P source reviewed screening,8,7,7,0,0,1,100.0,1.0,1.0

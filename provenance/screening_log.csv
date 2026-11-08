@@ -1,0 +1,9 @@
+candidate,decision,reason,source_url,accessed_on
+Kazakh Speech Corpus (KSC),included,Named resource with publication metadata; canonical release still to verify,https://aclanthology.org/2021.eacl-main.58/,2026-10-20
+KazNERD,included,Named resource with publication metadata; canonical release still to verify,https://aclanthology.org/2022.lrec-1.44/,2026-10-20
+KazakhTTS2,included,Named resource with publication metadata; canonical release still to verify,https://aclanthology.org/2022.lrec-1.578/,2026-10-20
+KazParC,included,Named resource with publication metadata; canonical release still to verify,https://aclanthology.org/2024.lrec-main.842/,2026-10-20
+KazQAD,included,Named resource with publication metadata; canonical release still to verify,https://aclanthology.org/2024.lrec-main.843/,2026-10-20
+KazMMLU,included,Named resource with publication metadata; canonical release still to verify,https://aclanthology.org/2025.acl-long.701/,2026-10-20
+KazBench-KK,included,Named resource with publication metadata; canonical release still to verify,https://aclanthology.org/2025.fieldmatters-1.4/,2026-10-20
+LLM Evaluation in Kazakh,excluded from resource counts,Study spanning six task datasets; components not resolved and may overlap other resources,https://aclanthology.org/2024.sigturk-1.8/,2026-10-20

@@ -1,0 +1,25 @@
+candidate_id,candidate,method,included,reference_included
+KSC,Kazakh Speech Corpus (KSC),B1 inventory retention,1,1
+KSC,Kazakh Speech Corpus (KSC),B2 structural validation,1,1
+KSC,Kazakh Speech Corpus (KSC),P source reviewed screening,1,1
+KazNERD,KazNERD,B1 inventory retention,1,1
+KazNERD,KazNERD,B2 structural validation,1,1
+KazNERD,KazNERD,P source reviewed screening,1,1
+KazakhTTS2,KazakhTTS2,B1 inventory retention,1,1
+KazakhTTS2,KazakhTTS2,B2 structural validation,1,1
+KazakhTTS2,KazakhTTS2,P source reviewed screening,1,1
+KazParC,KazParC,B1 inventory retention,1,1
+KazParC,KazParC,B2 structural validation,1,1
+KazParC,KazParC,P source reviewed screening,1,1
+KazQAD,KazQAD,B1 inventory retention,1,1
+KazQAD,KazQAD,B2 structural validation,1,1
+KazQAD,KazQAD,P source reviewed screening,1,1
+Study,LLM Evaluation in Kazakh,B1 inventory retention,1,0
+Study,LLM Evaluation in Kazakh,B2 structural validation,1,0
+Study,LLM Evaluation in Kazakh,P source reviewed screening,0,0
+KazMMLU,KazMMLU,B1 inventory retention,1,1
+KazMMLU,KazMMLU,B2 structural validation,1,1
+KazMMLU,KazMMLU,P source reviewed screening,1,1
+KazBench-KK,KazBench-KK,B1 inventory retention,1,1
+KazBench-KK,KazBench-KK,B2 structural validation,1,1
+KazBench-KK,KazBench-KK,P source reviewed screening,1,1
